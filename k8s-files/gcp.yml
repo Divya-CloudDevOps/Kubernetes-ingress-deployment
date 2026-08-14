@@ -13,7 +13,7 @@ spec:
     spec:
       containers:
         - name: gcp
-          image: 211125606152.dkr.ecr.us-west-2.amazonaws.com/gcp:latest
+          image: 535252061083.dkr.ecr.ap-south-1.amazonaws.com/gcp
           imagePullPolicy: Always
           ports:
             - containerPort: 80
